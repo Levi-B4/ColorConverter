@@ -1,2 +1,2 @@
 # ColorConverter
-An elixir module which converts hexadecimal values to RGB
+An elixir module which converts color values between hexadecimal and decimal.
